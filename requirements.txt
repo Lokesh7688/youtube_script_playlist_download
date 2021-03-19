@@ -63,7 +63,7 @@ packaging==16.8
 pbr==5.4.4
 peewee==2.10.2
 pew==1.2.0
-Pillow==6.0.0
+Pillow==8.1.1
 pipenv==9.0.1
 pycodestyle==2.5.0
 pycparser==2.19
