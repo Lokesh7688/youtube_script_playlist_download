@@ -83,7 +83,7 @@ python-editor==1.0.4
 python2==1.2
 pytube==9.5.3
 pytz==2019.3
-PyYAML==5.3
+PyYAML==5.4
 ratelimit==2.2.1
 rauth==0.7.3
 razorpay==1.2.0
